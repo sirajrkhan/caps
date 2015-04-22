@@ -24,3 +24,12 @@ var education = {
         }
     ]
 };
+
+var charEscape = function(_html) {
+    var newHTML = _html.replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    // How will you make sure that newHTML doesn't contain any < or > ?
+    // Your code goes here!
+
+    // Don't delete this line!
+    return newHTML;
+};
