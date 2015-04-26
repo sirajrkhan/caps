@@ -30,6 +30,7 @@ var charEscape = function(_html) {
     return newHTML;
 };
 
+//takes name as single string returns in international format -- Siraj KHAN
 var intName = function (str){
 	var x = str.split(" ");	
 	x[1] = x[1].toUpperCase();
