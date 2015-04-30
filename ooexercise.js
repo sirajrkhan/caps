@@ -23,4 +23,6 @@ var Obj = {
             "year": 1992
         }
     ]
-}
+};
+
+var newObj = {}
