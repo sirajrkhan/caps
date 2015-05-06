@@ -1,4 +1,5 @@
-var Obj = {
+//Schools JSON
+var schools = {
     "schools": [
         {
             "name": "St. Umar HSS",
@@ -25,7 +26,8 @@ var Obj = {
     ]
 };
 
-var newObj = {
+//Jobs JSON
+var jobs = {
     "jobs": [
         {
             "title": "Project Manager",
