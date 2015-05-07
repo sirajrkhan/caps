@@ -26,7 +26,7 @@ var schools = {
     ]
 };
 
-//Jobs JSON
+//Jobs JSON to be updated
 var jobs = {
     "jobs": [
         {
