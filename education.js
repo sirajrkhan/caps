@@ -6,7 +6,7 @@ var education = {
             "course": "Higher Sec",
             "majors": [
                 "Physics",
-                "Chemisty",
+                "Chemistry",
                 "Biology"
             ],
             "year": 1994
@@ -17,7 +17,7 @@ var education = {
             "course": "High School",
             "majors": [
                 "Physics",
-                "Chemisty",
+                "Chemistry",
                 "Biology"
             ],
             "year": 1992
