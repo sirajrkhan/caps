@@ -1,7 +1,7 @@
 var education = {
     "schools": [
         {
-            "name": "St. Umar HSS",
+            "name": "St. Umar H S S",
             "city": "Indore",
             "course": "Higher Sec",
             "majors": [
