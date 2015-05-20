@@ -16,5 +16,4 @@ var slicer = function (a,num){
     return a.slice(num,a.length);
 };
 
-// Did your code work? The line below will tell you!
 console.log(udacityizer(s));
