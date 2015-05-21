@@ -1,4 +1,4 @@
 # Exercises for basic JavaScript Code
 Capitalization of first word using plain javascript
 
-Certain other functions
+... well it started with Capitalization only... but now on, i'll keep pushing handy scripts into the file
